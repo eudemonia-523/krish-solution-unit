@@ -1,0 +1,1 @@
+## This is the practice for making a whole solution architecture.
